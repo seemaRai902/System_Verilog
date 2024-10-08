@@ -33,8 +33,8 @@ endmodule
 ```
 
 #### Output:
-####### run -all
-####### Name: Shinchan
-####### ID: 68
-####### Person Type: Employee
-####### exit
+run -all \
+Name: Shinchan \
+ID: 68 \
+Person Type: Employee\
+exit
