@@ -18,9 +18,10 @@ However, if treated as a signed byte, it will be interpreted as `-24`.
 
 2. Calculating the Negative Value:
    - When you assign `1000` to a signed `byte`, the value is calculated as:
-     \[
-     1000 - 256 \times \left(\frac{1000}{256}\right) = 1000 - 256 \times 3 = 1000 - 768 = 232
-     \]
+   \[
+1000 - 256 \times \left(\frac{1000}{256}\right) = 1000 - 256 \times 3 = 1000 - 768 = 232
+\]
+
    - However, since it's a signed `byte`, it can interpret `232` in the signed range:
      - The equivalent signed representation can be found by subtracting `256` from `232`:
      \[
