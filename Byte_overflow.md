@@ -41,6 +41,7 @@ module example;
     $display("Value: %0d", value); // Outputs: Value: 232 (unsigned)
   end
 endmodule
+```
 
 ### Summary
 - Unsigned Byte: 
