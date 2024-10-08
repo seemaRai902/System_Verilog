@@ -1,4 +1,4 @@
-# 1GHz clock generation with 70% duty cycle
+### 1GHz clock generation with 70% duty cycle
 ```system verilog
 `timescale 1ns/1ps
 module tb;
