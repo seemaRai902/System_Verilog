@@ -47,16 +47,7 @@ How do you design a Verilog module and simulation testbench to generate a 12.5 M
 ## 📐 The Math & Specifications
 
 To design this clock, we calculate the exact time durations required for the high and low states:
-
-* **Total Period ($T$):** 
-  $$ \frac{1}{12.5 \text{ MHz}} = 80 \text{ ns} $$
-
-* **HIGH Time (25% Duty Cycle):** 
-  $$ 80 \text{ ns} \times 0.25 = 20 \text{ ns} $$
-
-* **LOW Time (75% Duty Cycle):** 
-  $$ 80 \text{ ns} \times 0.75 = 60 \text{ ns} $$
-
+<img width="278" height="122" alt="Image" src="https://github.com/user-attachments/assets/54ed0de3-9204-46c4-89b1-74a1e4ab2dac" />
 
 ---
 
