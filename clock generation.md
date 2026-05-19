@@ -46,7 +46,7 @@ How do you design a Verilog module and simulation testbench to generate a 12.5 M
 
 ## 📐 The Math & Specifications
 
-To design this clock, we calculate the exact time durations required for the high and low states:
+
 <img width="278" height="122" alt="Image" src="https://github.com/user-attachments/assets/54ed0de3-9204-46c4-89b1-74a1e4ab2dac" />
 
 ---
